@@ -1,1 +1,1 @@
-# Example-of-code-in-CPlusPlus-Java-and-Python
+# Example-of-code-in-Java-and-Python
